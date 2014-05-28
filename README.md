@@ -1,4 +1,4 @@
 linux
 =====
 
-master linux repository
+Linux AMP架构的主分支
